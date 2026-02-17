@@ -1,7 +1,5 @@
 def main():
-    print("Git workflow practice")
-    print("This is the second edit")
-
+    print("Main branch updated again")
 
 if __name__ == "__main__":
     main()
