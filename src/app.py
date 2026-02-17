@@ -1,5 +1,5 @@
 def main():
-    print("Git workflow practice")
+    print("Feauture branch conflicting version")
     print("This is the second edit")
 
 
